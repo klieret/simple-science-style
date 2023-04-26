@@ -1,0 +1,13 @@
+xtick.top: True
+xtick.minor.visible: True
+xtick.direction: in
+ytick.right: True
+ytick.minor.visible: True
+ytick.direction: in
+axes.labelsize: 12
+axes.formatter.limits: -4, 4
+axes.titlesize: large
+axes.labelpad: 4.0
+lines.linewidth: 1.5
+legend.frameon: False
+axes.prop_cycle: cycler('color', ['ebac23', 'b80058', '008cf9', '00a76c', 'ff9287', 'd163e6', 'bdbdbd'])
