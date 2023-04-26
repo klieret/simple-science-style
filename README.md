@@ -4,7 +4,7 @@
 [![Check Markdown links](https://github.com/klieret/simple-science-style/actions/workflows/check-links.yaml/badge.svg)](https://github.com/klieret/simple-science-style/actions/workflows/check-links.yaml)
 
 A simple stylesheet for matplotlib because I'm unhappy with the default ones.
-There are some much more elaborate style sheets out there (see section below), but sometimes they often require to pip install a package and might be an overkill for a quick plot.
+There are some much more elaborate style sheets out there (see section below), but they often require to pip install a package and might be an overkill for a quick plot.
 
 You can use this stylesheet as easy as this:
 
