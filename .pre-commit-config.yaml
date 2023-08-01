@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/psf/black
-    rev: 23.3.0
+    rev: 23.7.0
     hooks:
       - id: black
       - id: black-jupyter
@@ -20,12 +20,12 @@ repos:
       - id: codespell
         args: ["-I", "codespell.txt"]
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.8.0
+    rev: v3.10.1
     hooks:
       - id: pyupgrade
         args: ["--py37-plus"]
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.9-for-vscode"
+    rev: "v3.0.0"
     hooks:
       - id: prettier
 
